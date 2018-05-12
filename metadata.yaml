@@ -1,0 +1,36 @@
+_repo: PerlycrossA-Tale-of-the-Western-Hills_45038
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45038-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blackmore, R. D. (Richard Doddridge)
+    alias: Blackmore, Richard Doddridge
+    birthdate: 1825
+    deathdate: 1900
+    gutenberg_agent_id: '439'
+    url: http://www.gutenberg.org/2009/agents/439
+    wikipedia: http://en.wikipedia.org/wiki/R._D._Blackmore
+description: "Perlycross: a tale of the western hills is a three-volume novel by R.\
+  \ D. Blackmore published in 1894. The story is set in eastern Devon around 1830.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2014-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45038'
+  wikidata: Q16932570
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devon (England) -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Romance fiction'
+title: 'Perlycross: A Tale of the Western Hills'
+url: http://www.gutenberg.org/ebooks/45038
+wikipedia:
+- https://en.wikipedia.org/wiki/Perlycross
